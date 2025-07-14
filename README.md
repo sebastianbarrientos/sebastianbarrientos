@@ -1,12 +1,12 @@
 <h2 align="center">Hey there 👋 I'm Sebastián</h2>
 
-<p align="center">A fullstack developer focused on building modern, efficient applications with a great user experience.</p>
+<p align="center">A fullstack developer focused on building modern, agile applications with a user-first mindset.</p>
 
 ### 🧑‍💻 About Me
 
 - 💻 Experienced in both frontend and backend technologies.
-- 📚 I'm interested in quality-oriented programming and continuous learning.
-- 🌱 I enjoy providing solutions, collaborating in teams, and growing.
+- 📚 Interested in quality-oriented programming and continuous learning.
+- 🌱 Driven by real impact, open communication, and continuous growth—both personal and as a team.
 
 ---
 
