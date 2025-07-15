@@ -5,7 +5,7 @@
 ### 🧑‍💻 About Me
 
 - 💻 Experienced in both frontend and backend technologies.
-- 📚 Interested in quality-oriented programming and continuous learning.
+- 📚 Interested in quality-oriented programming and lifelong learning.
 - 🌱 Driven by real impact, open communication, and continuous growth—both personal and as a team.
 
 ---
