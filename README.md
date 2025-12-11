@@ -1,6 +1,6 @@
-<h2 align="center">Hey there 👋 I'm Sebastián</h2>
+<h2 align="center">Hey there! 👋 I'm Sebastián</h2>
 
-<p align="center">A fullstack developer focused on building modern, agile applications with a user-first mindset.</p>
+<p align="center">Fullstack software developer experienced in Python and JavaScript</p>
 
 ### 🧑‍💻 About Me
 
