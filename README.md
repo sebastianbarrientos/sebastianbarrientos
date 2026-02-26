@@ -45,4 +45,4 @@
 
 ### 🔗 Let’s Connect
 
-📩 **Reach me at**: [Sebastian's LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-barrientos-a5b6b5271/)
+📩 **Reach me at**: [Sebastian's LinkedIn](https://www.linkedin.com/in/sbarrientosdev)
